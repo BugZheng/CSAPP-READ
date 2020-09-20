@@ -20,7 +20,7 @@
 
 * ##### 文本程序 到可执行程序的整个历程（如下图所示）
 
-![image-20200915093027082](/Users/zhengweizhao/Library/Application Support/typora-user-images/image-20200915093027082.png)
+![image-20200915093027082](CSAPP-img/image-20200915093027082.png)
 
 
 
@@ -58,7 +58,7 @@
 
 
 
-![image-20200915202211047](/Users/zhengweizhao/Library/Application Support/typora-user-images/image-20200915202211047.png)
+![image-20200915202211047](CSAPP-img/image-20200915202211047.png)
 
 
 
@@ -78,7 +78,7 @@
 
 > 其实这里就是 在处理器和较大的主存 中间 加个 高速缓存的设备
 
-![image-20200915204829200](/Users/zhengweizhao/Library/Application Support/typora-user-images/image-20200915204829200.png)
+![image-20200915204829200](CSAPP-img/image-20200915204829200.png)
 
 
 
@@ -90,9 +90,9 @@
 
   * ###### 向应用程序提供简单操作硬件的的调用机制
 
-![image-20200915205309108](/Users/zhengweizhao/Library/Application Support/typora-user-images/image-20200915205309108.png)
+![image-20200915205309108](CSAPP-img/image-20200915205309108.png)
 
-![image-20200915205322218](/Users/zhengweizhao/Library/Application Support/typora-user-images/image-20200915205322218.png)
+![image-20200915205322218](CSAPP-img/image-20200915205322218.png)
 
 * ##### 进程：操作系统对正在运行程序的一种抽象（独立上下文）
 
@@ -100,7 +100,7 @@
 
 * ##### 虚拟内存：为每个进程提供一个假象，每个进程独立占用使用的内存。
 
-  ![image-20200915210159136](/Users/zhengweizhao/Library/Application Support/typora-user-images/image-20200915210159136.png)
+  ![image-20200915210159136](CSAPP-img/image-20200915210159136.png)
 
   * ###### 程序代码和数据：直接按照可执行目标文件的内容初始化的，比如可执行的 hello 文件。
 
@@ -112,27 +112,11 @@
 
 
 
-
-
 ###  1.9 并发和并行
 
 * ##### 并发： 不同的代码片段在 一个处理器上 来回切换执行。
 
 * ##### 并行： 不同的代码片段在 不同的处理器上 同时执行。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
